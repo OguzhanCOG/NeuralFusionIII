@@ -39,7 +39,7 @@ OzeAssist. My original project, now supercharged with NeuralFusion™ III. A sep
 
 ## Checkpoint
 
-Midway. NeuralFusion™ models are for my personal research and daily use.
+Midway. NeuralFusion™ models primarily used for my personal research and daily drive.
 
 ## Miscellaneous
 
