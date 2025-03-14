@@ -11,7 +11,7 @@ Building on NeuralFusion™ II's success in MMLU, qualitative testing, and other
 ## Core Highlights
 
 - 1.4 ***trillion*** total parameters, with 82B active at inference via a novel MoE-mux architecture (72B without embeddings).
-- A massive 1M token context window handling audio, video, text, 3D objects, and more. This is powered by an array of new token translation meta-networks, tailored to NeuralFusion™ III's revamped embedding system.
+- A massive 1M token context window handling audio, video, text, 3D objects, and more. This is powered by an array of new token translation / encoder meta-networks, tailored to NeuralFusion™ III's revamped embedding system.
 - A new 'Token Staggering' method extends output token limits to a cohesive 128K, significantly surpassing standard 8K/32K outputs.
 - Updated extremeHEAD to version II, a next-generation Multi-Head Self-Attention head.
 - Fully reworked embedding system, optimized for efficient multimodal integration and long-context coherence.
