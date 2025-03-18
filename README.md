@@ -10,14 +10,16 @@ Building on NeuralFusion™ II's success in MMLU, qualitative testing, and other
 
 ## Core Highlights
 
-- 1.4 ***trillion*** total parameters, with 82B active at inference via a novel MoE-mux architecture (72B without embeddings).
-- A massive 1M token context window handling audio, video, text, 3D objects, and more. This is powered by an array of new token translation / encoder meta-networks, tailored to NeuralFusion™ III's revamped embedding system.
+- 1.4 ***trillion*** total parameters, with 82B active at inference via a novel MoE-mux architecture
+- 72B without embeddings. Precisely 17x 82B experts, dynamically inferenced, carefully tuned to math, coding and logic.
+- A massive 1M token context window handling audio, video, text, 3D objects, and more.
+- Powered by an array of new token translation / encoder meta-networks, tailored to NeuralFusion™ III's revamped embedding system.
 - A new 'Token Staggering' method extends output token limits to a cohesive 128K, significantly surpassing standard 8K/32K outputs.
 - Updated extremeHEAD to version II, a next-generation Multi-Head Self-Attention head.
-- Fully reworked embedding system, optimized for efficient multimodal integration and long-context coherence.
+- Fully reworked embedding system, optimised for efficient multimodal integration and long contexts.
 - Hybrid Transformer Core adapted directly from EnhanceFX™ VI for ultra-sharp, image-based contextual processing.
 - ViRAU dynamic activation function.
-- TFT ≈ 500ms on a RTX 4090. Yes.
+- TFT ≈ 500ms on a RTX 4090.
 
 ### Features
 
